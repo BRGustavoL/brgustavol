@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 Atuando com VueJS e ReactJS
-- 🌱 Aprendendo sobre Python
+- 🔭 Atuando com ReactJS
+- 🌱 Aprendendo sobre desenvolvimento Mobile
 - ⚡ Fun fact: 80's movies are THE BEST!
